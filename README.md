@@ -1,6 +1,11 @@
 # Form Input Wave
+
+https://normstraker.github.io/Form-Input-Wave/
+
 - form with animated letters when input fields are clicked
+
 ## CSS
+
 - outline:
 - :active
 - transform: scale()
@@ -8,7 +13,9 @@
 - :valid
 - transition: cubic-bezier()
 - transform: translateY()
+
 ## Javascript
+
 - querySelectorAll()
 - forEach() => {}
 - .split()
